@@ -1,4 +1,3 @@
-# EV-Battery-Remaining-Useful-Life-Prediction
 # EV Battery Remaining Useful Life (RUL) Prediction
 
 ## Overview
@@ -146,35 +145,3 @@ Through this project, I gained practical experience in:
 - Predictive Maintenance Applications
 
 ---
-
-## Future Improvements
-
-- Deep Learning-based RUL Prediction
-- Real-Time Battery Health Monitoring
-- Deployment using Flask/FastAPI
-- Integration with IoT-based Battery Management Systems
-- Advanced Ensemble Learning Techniques
-
----
-
-
-
-## Repository Structure
-
-EV-Battery-Remaining-Useful-Life-Prediction/
-
-├── EV2.ipynb
-
-├── Battery_RUL.csv
-
-├── README.md
-
-├── requirements.txt
-
-└── images/
-
-    ├── correlation_heatmap.png
-    
-    ├── feature_importance.png
-    
-    └── actual_vs_predicted.png
